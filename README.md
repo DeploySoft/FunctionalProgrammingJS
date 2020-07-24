@@ -1,1 +1,1 @@
-# functionalProgrammingNode
+# functionalProgrammingJS
