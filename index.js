@@ -13,6 +13,7 @@
  * <b> Functional Programming <b>
  * * FirstClass functions --> use the functions like a variable
  * * Pure functions
+ * * FIXME
  * * Recursive functions --> use resources from somewhere
  * * Anonymous functions --> Just for a scope and normally is created as lambda
  * * Higher-order functions --> this to receive a function and it will return other function
